@@ -3,4 +3,5 @@
 
 | Name        | Github Username |
 | ----------- | --------------- |
-| Abhi Jain   | devabhixda |
+| Sanidhya Mahajan  | sanidhya10628 |
+| Sanidhya Mahajan   | sanidhya10628 |
